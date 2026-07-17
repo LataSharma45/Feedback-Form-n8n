@@ -62,10 +62,4 @@ Developed an **AI-powered customer feedback automation system** using **n8n** to
 ## Architecture Image
 <img width="1456" height="686" alt="image" src="https://github.com/user-attachments/assets/0d359066-73ef-4eb3-bdef-b14d6ac4eee4" />
 
-<img width="747" height="922" alt="image" src="https://github.com/user-attachments/assets/f87e2dc2-f01d-430c-8f8d-c5e40e2645cf" />
 
-## Identification
-<img width="1652" height="821" alt="image" src="https://github.com/user-attachments/assets/8f3c7414-d701-4671-9ea9-0f4eb1f762a8" />
-
-## Gmail Screenshot
-<img width="715" height="511" alt="image" src="https://github.com/user-attachments/assets/8e05aa9b-b901-4dc7-962b-16337007be4f" />
