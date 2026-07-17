@@ -1,1 +1,60 @@
-# Feedback-Form-n8n
+# AI-Powered Feedback Management Workflow (n8n)
+
+## Overview
+
+Developed an **AI-powered customer feedback automation system** using **n8n** to streamline feedback processing and eliminate manual triage. The workflow leverages **Google Gemini AI** to analyze customer messages, classify them into actionable categories, and trigger automated business workflows in real time.
+
+## Key Features
+
+* Built an end-to-end **no-code/low-code automation workflow** in **n8n**.
+* Integrated **Google Gemini AI** for intelligent feedback classification.
+* Automatically categorizes customer feedback into:
+
+  * **Complaint**
+  * **Compliment**
+  * **Feature Request**
+* Sends an automated acknowledgment email to customers via **Gmail** when a complaint is detected.
+* Instantly notifies the internal support team through **Slack** for faster response and issue resolution.
+* Routes compliments and feature requests to the appropriate business channels for recognition and product improvement.
+* Uses conditional workflow logic to ensure each feedback type follows the correct business process.
+* Reduces manual effort, improves response time, and enables scalable customer support automation.
+
+## Workflow
+
+1. Customer submits feedback.
+2. n8n receives the feedback.
+3. Google Gemini AI analyzes the message.
+4. AI classifies the feedback as Complaint, Compliment, or Feature Request.
+5. Based on the classification:
+
+   * **Complaint:** Sends a personalized email via Gmail and alerts the support team on Slack.
+   * **Compliment:** Shares positive feedback with the team.
+   * **Feature Request:** Routes the suggestion for product evaluation.
+
+## Technologies Used
+
+* **n8n** – Workflow automation
+* **Google Gemini AI** – AI-powered text classification
+* **Gmail API** – Automated email notifications
+* **Slack API** – Real-time team notifications
+
+## Skills Demonstrated
+
+* AI Workflow Automation
+* Prompt Engineering
+* API Integration
+* Business Process Automation
+* Event-Driven Architecture
+* Conditional Logic & Routing
+* No-Code/Low-Code Development
+* Customer Support Automation
+* AI-Powered Decision Making
+* Workflow Orchestration
+
+## Business Impact
+
+* Automated customer feedback processing from submission to notification.
+* Eliminated manual feedback categorization through AI-powered classification.
+* Enabled immediate support team alerts for complaints.
+* Improved customer communication with automated email acknowledgments.
+* Created a scalable workflow that can be extended with CRM, databases, ticketing systems, or analytics platforms.
