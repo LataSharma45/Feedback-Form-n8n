@@ -59,12 +59,15 @@ Developed an **AI-powered customer feedback automation system** using **n8n** to
 * Improved customer communication with automated email acknowledgments.
 * Created a scalable workflow that can be extended with CRM, databases, ticketing systems, or analytics platforms.
 
-## Architecture Image
-<img width="1456" height="686" alt="image" src="https://github.com/user-attachments/assets/0d359066-73ef-4eb3-bdef-b14d6ac4eee4" />
-
+## Architecture 
 <img width="1576" height="691" alt="image" src="https://github.com/user-attachments/assets/3db52e60-44cf-4224-8d07-795a1b5d393f" />
 
 ## Form
 <img width="727" height="855" alt="image" src="https://github.com/user-attachments/assets/0c70d328-bf6b-41a3-8c84-ca1b47bd5ecd" />
 
+## Complete Workflow
+<img width="1456" height="686" alt="image" src="https://github.com/user-attachments/assets/0d359066-73ef-4eb3-bdef-b14d6ac4eee4" />
+
+## Complaint Email
+<img width="672" height="481" alt="image" src="https://github.com/user-attachments/assets/1099e0c3-2381-4a0c-b4b0-64954865ab97" />
 
